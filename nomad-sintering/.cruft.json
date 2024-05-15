@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin",
+  "commit": "e81af488ea2ce0810ba7d6319980a2010455e064",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Mattis Gossler",
+      "email": "m.gossler@fz-juelich.de",
+      "github_username": "Mimomattis",
+      "plugin_name": "sintering",
+      "module_name": "sintering",
+      "short_description": "This is a schema package plugin for sintering.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "include_schema_package": true,
+      "include_normalizer": false,
+      "include_parser": false,
+      "include_app": false,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin"
+    }
+  },
+  "directory": null
+}
